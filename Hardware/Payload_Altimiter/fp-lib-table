@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Arduino)(type KiCad)(uri C:/Users/jmbki/Documents/GitHub/Payload-SRAD-Altimeter/Hardware/Libraries/Arduino.pretty)(options "")(descr ""))
+)
