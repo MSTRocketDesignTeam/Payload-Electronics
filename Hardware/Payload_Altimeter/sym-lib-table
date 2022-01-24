@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name Arduino)(type Legacy)(uri C:/Users/jmbki/Documents/GitHub/Payload-SRAD-Altimeter/Hardware/Libraries/Arduino.lib)(options "")(descr ""))
-  (lib (name RDT_Custom_Symbols)(type Legacy)(uri C:/Users/jmbki/Documents/GitHub/Payload-SRAD-Altimeter/Hardware/Libraries/RDT_Custom_Symbols.lib)(options "")(descr ""))
-)

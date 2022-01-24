@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Arduino")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Arduino.lib")(options "")(descr ""))
+  (lib (name "RDT_Custom_Symbols")(type "Legacy")(uri "${KIPRJMOD}/Libraries/RDT_Custom_Symbols.lib")(options "")(descr ""))
+)
