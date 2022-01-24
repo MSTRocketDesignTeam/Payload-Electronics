@@ -1,4 +1,2 @@
-# Arduino_pro_mini_KiCad5
-Arduino pro mini project in kicad 5
-
-https://youtu.be/w0Ov9XtYdCo
+# Pyro-Charge-Controller-PCB
+KiCAD PCB files of rocket board designed to handle interactions with external pyro charges
