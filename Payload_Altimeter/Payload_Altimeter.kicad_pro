@@ -422,6 +422,10 @@
     [
       "5fba5415-62df-4f11-b066-c862c7f4f614",
       "Altimeter"
+    ],
+    [
+      "18be7ca6-5942-4bc1-bf13-c4393b1dbad1",
+      "Arduino"
     ]
   ],
   "text_variables": {}
