@@ -417,7 +417,7 @@
       (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
     )
     (path "/5fba5415-62df-4f11-b066-c862c7f4f614/00000000-0000-0000-0000-000061610282"
-      (reference "C12") (unit 1) (value "100nF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder")
+      (reference "C12") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/0730ce47-0bea-44a3-992c-5d03f0a08e83/00000000-0000-0000-0000-000061d5e9ee"
       (reference "J1") (unit 1) (value "L717SDC37P1ACH4F") (footprint "RDT_Custom_Footprints:L717SDC37P1ACH4F")

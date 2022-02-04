@@ -364,7 +364,7 @@
     (property "Value" "100nF" (id 1) (at 164.211 93.853 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder" (id 2) (at 162.2552 96.52 0)
+    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 162.2552 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 161.29 92.71 0)
