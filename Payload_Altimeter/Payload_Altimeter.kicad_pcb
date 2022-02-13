@@ -357,8 +357,48 @@
       (net 42 "unconnected-(U1-PadA6)") (pinfunction "A6") (pintype "bidirectional") (tstamp f83ef719-4a68-4499-8b53-33d75fe55d67))
     (pad "A7" thru_hole oval locked (at 12.7 19.05 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 41 "unconnected-(U1-PadA7)") (pinfunction "A7") (pintype "bidirectional") (tstamp 5dbb555a-718e-47f7-bf79-90ca7deaa539))
-    (model "${KIPRJMOD}/Libraries/Arduino.3dshapes/arduino_pro_mini.x3d"
+    (model "${KIPRJMOD}/Libraries/RDT_Custom_Footprints.3dshapes/arduino-pro-mini.step"
+      (offset (xyz 7.5 -12.75 9.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x12_P2.54mm_Vertical.step"
+      (offset (xyz 15 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x12_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x12_P2.54mm_Vertical.step"
+      (offset (xyz 15 0 9.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x12_P2.54mm_Vertical.step"
+      (offset (xyz 0 0 9.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 -180 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+      (offset (xyz 12.5 -19 9.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+      (offset (xyz 12.5 -9 9.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 -180 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.step"
+      (offset (xyz 12.5 -19 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.step"
+      (offset (xyz 12.5 -9 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
