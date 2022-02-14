@@ -786,7 +786,7 @@
   (gr_line (start 149.98989 144.99489) (end 89.94989 144.98989) (layer "Edge.Cuts") (width 0.1) (tstamp 5f80959c-ec28-4c74-ba84-895b12d6cbbb))
   (gr_arc (start 150.02989 51.73989) (mid 157.074786 54.679682) (end 159.98989 61.734829) (layer "Edge.Cuts") (width 0.1) (tstamp 7be59ca5-c7f4-4a19-baec-d6cab7a6d62d))
   (gr_line (start 79.98989 134.994951) (end 79.98989 61.69989) (layer "Edge.Cuts") (width 0.1) (tstamp 827d4612-ec2d-472b-8b7a-6e06bddc7bad))
-  (gr_circle (center 116.48989 98.48989) (end 124.48989 98.48989) (layer "Edge.Cuts") (width 0.05) (fill none) (tstamp c26de1f7-3005-4701-9815-68ca8c78253c))
+  (gr_circle (center 116.5 98.5) (end 124.5 98.5) (layer "Edge.Cuts") (width 0.05) (fill none) (tstamp c26de1f7-3005-4701-9815-68ca8c78253c))
   (gr_arc (start 79.98989 61.69989) (mid 82.929682 54.654994) (end 89.984829 51.73989) (layer "Edge.Cuts") (width 0.1) (tstamp d49cda20-acd3-4c64-b247-d5fdaf1f4d14))
   (gr_arc (start 89.94989 144.98989) (mid 82.904994 142.050098) (end 79.98989 134.994951) (layer "Edge.Cuts") (width 0.1) (tstamp d8e60209-5871-4d27-98d3-dc9f69d82889))
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 30d78a8a-040f-4f3e-aaa0-dac019e1b733)
