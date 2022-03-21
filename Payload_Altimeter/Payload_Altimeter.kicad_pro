@@ -426,10 +426,6 @@
     [
       "18be7ca6-5942-4bc1-bf13-c4393b1dbad1",
       "Arduino"
-    ],
-    [
-      "abdb6179-bbd9-4d88-83fc-0a11cdff4490",
-      "sdcard"
     ]
   ],
   "text_variables": {}
