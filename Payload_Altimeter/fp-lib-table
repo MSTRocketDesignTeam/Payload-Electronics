@@ -2,4 +2,5 @@
   (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Graphics.pretty")(options "")(descr ""))
   (lib (name "Arduino")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Arduino.pretty")(options "")(descr ""))
   (lib (name "RDT_Custom_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RDT_Custom_Footprints.pretty")(options "")(descr ""))
+  (lib (name "teensy")(type "KiCad")(uri "${KIPRJMOD}/Libraries/teensy.pretty-master")(options "")(descr ""))
 )
